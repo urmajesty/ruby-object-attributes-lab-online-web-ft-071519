@@ -7,4 +7,6 @@ def breed
 end
 end
 
-dog.name = "dog_name"
+doggy = Dog.new("doggy")
+doggy = @name
+doggy.name
