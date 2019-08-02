@@ -9,5 +9,5 @@ end
     lassie = Dog.new
     lassie.name ="Lassie"
      
-    putlassie.name
+    puts lassie.name
   
