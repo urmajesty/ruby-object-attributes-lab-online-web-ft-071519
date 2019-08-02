@@ -7,6 +7,6 @@ def breed
 end
 end
 
-"doggy" = Dog.new
-doggy.name = 
+doggy = Dog.new
+doggy.name = "dogly"
 doggy.name
