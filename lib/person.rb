@@ -5,6 +5,7 @@ class Person
   def job= (job)
     @job = job
   end
+end
   
   lady = Person.new
   lady.name = "Lady"
