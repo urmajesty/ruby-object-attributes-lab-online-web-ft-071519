@@ -7,6 +7,6 @@ def breed
 end
 end
 
-doggy"m= Dog.new
+"doggy" = Dog.new
 doggy = @name
 doggy.name
