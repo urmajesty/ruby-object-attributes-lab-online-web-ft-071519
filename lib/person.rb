@@ -9,7 +9,7 @@ end
   
   lady = Person.new
   lady.name = "Lady"
-   = "Jobby"
+   lady.job = "Jobby"
   
   lady.name
-  job.name
+  lady.job
