@@ -2,7 +2,7 @@
 
 
 
-dog = Dog.new("dog", )
+dog = Dog.new("dog")
 dog.name
 
 
