@@ -5,8 +5,18 @@ class Dog
   def  name
     @name
   end
+def breed
+  @breed = breed
+end
+
+def breed
+  @breed
+end
 end
     lassie = Dog.new
     lassie.name = "Lassie"
+     lassie.breed = "Golden Retriever"
      
+     lassie.name
+     lassie.breed
   
