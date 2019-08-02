@@ -5,7 +5,7 @@ def name
 @name = name
 end
 end
-dog = Dog.new("dog")
+"dog" = Dog.new
 dog.name
 
 
