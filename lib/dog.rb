@@ -2,6 +2,6 @@
 
 
 
-dog = Dog.new
+dog = Dog.new("dog")
 dog.name
 dog.breed
