@@ -13,6 +13,7 @@ def breed
   @breed
 end
 end
+end
     lassie = Dog.new
     lassie.name = "Lassie"
      lassie.breed = "Golden Retriever"
