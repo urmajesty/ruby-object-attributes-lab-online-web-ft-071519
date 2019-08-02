@@ -7,4 +7,4 @@ def breed
 end
 end
 
-dog
+dog.name = "dog_name"
